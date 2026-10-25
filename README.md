@@ -26,5 +26,4 @@ Puedes probar los sistemas interactivos aquí:
 
 ## 📫 Contacto
 Si te interesa una página web para tu negocio o necesitas automatizar algo con Python, escríbeme:
-*   WhatsApp: [62280649]
-```
+*   WhatsApp : 62280649
